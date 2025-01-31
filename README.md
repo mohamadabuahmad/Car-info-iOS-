@@ -42,4 +42,4 @@ Car Info Lookup (iOS) is a **Swift** application that fetches detailed informati
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/car-info-ios.git
+   git clone https://github.com/mohamadabuahmad/car-info-ios.git
